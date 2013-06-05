@@ -1,0 +1,1 @@
+if(!window.console){(function(){var e=["log","debug","info","warn","error","assert","dir","dirxml","group","groupEnd","time","timeEnd","count","trace","profile","profileEnd"],t,n=e.length;window.console={};for(t=0;t<n;t++){window.console[e[t]]=function(){}}})()}

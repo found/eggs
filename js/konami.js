@@ -99,14 +99,3 @@ var Konami = function(callback) {
 
   return konami;
 }
-
-var farter = new Konami(function() {
-  var script = document.createElement('script');
-  script.onload = function() {
-    // alert("Farting loaded and ready");
-    fartscroll();
-  };
-  script.src = "http://code.onion.com/fartscroll.js";
-  document.getElementsByTagName('body')[0].appendChild(script);
-})
-farter.pattern = "707070";
