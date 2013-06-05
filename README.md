@@ -1,13 +1,17 @@
-eggs
+EGGS
 ====
 
-Easter Egg Instant Gratification for your website
+Easter Egg Instant Gratification for your website... just drop:
+
+    <script type="text/javascript" src="//frrt.herokuapp.com/js/fartscroll.js"></script>
+
+on your site somewhere for all of my favorite eggs. Keycodes are below in each specific egg
 
 
 
-Loading FartScroll:
+
+Just FartScroll:
 ====
-Just include
 
     <script type="text/javascript" src="//frrt.herokuapp.com/js/fartscroll.js"></script>
 
